@@ -1,0 +1,6 @@
+{
+  "name": "Trắc nghiệm Triết học Mác - Lênin",
+  "description": "Ứng dụng tương tác trắc nghiệm Triết học Mác - Lênin với đồ họa sinh động, hiệu ứng âm thanh, giải thích chi tiết và trực quan hóa sơ đồ Cơ sở hạ tầng - Kiến trúc thượng tầng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
